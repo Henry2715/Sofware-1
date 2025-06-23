@@ -6,6 +6,7 @@
   <img src="https://github.com/user-attachments/assets/57e319f0-a7b8-46e0-b2b1-71b72fb11a12" alt="Logo de Distribuidora Leo" width="300">
 </p>
 
+<h1 align="center">Distribuidora Leo - Gestión Web de Ventas y Clientes</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow" alt="Estado">
