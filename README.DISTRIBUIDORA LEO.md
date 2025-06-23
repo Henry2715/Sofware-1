@@ -1,8 +1,5 @@
 <!-- Encabezado visual centrado -->
 
-<p align="center">
-  <img src="Distribuidora-Leo-Web/images/logo-leo.png" alt="Logo Distribuidora Leo" width="120">
-</p>
 
 <h1 align="center">Distribuidora Leo - Gestión Web de Ventas y Clientes</h1>
 
