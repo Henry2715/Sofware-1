@@ -1,107 +1,73 @@
-Documento de Requisitos del Sistema (DRS) - Tarea 2: Reuniones de Elicitación y Negociación
+# Documento de Requisitos del Sistema (DRS) - Tarea 2: Reuniones de Elicitación y Negociación
 
-Proyecto: Distribuidora Leo WebVersión: 1.0Fecha: 15 de abril de 2025
+**Proyecto:** Distribuidora Leo Web
+**Versión:** 1.0
+**Fecha:** 15 de abril de 2025
 
-1. Introducción
+## 1. Introducción
 
 Esta tarea documenta la preparación y ejecución de sesiones de elicitación y negociación con los actores clave de Distribuidora Leo, con el fin de identificar necesidades, resolver conflictos y obtener información relevante para el diseño de la aplicación web. Se fundamenta en los resultados obtenidos en la Tarea 1 y sigue la metodología de elicitación de Durán & Bernárdez (2002).
 
-2. Participantes en las Reuniones
+## 2. Participantes en las Reuniones
 
-Rol
+| **Rol**                | **Nombre**         | **Responsabilidad**                            |
+| ---------------------- | ------------------ | ---------------------------------------------- |
+| Administradora         | Jennifer Buitrago  | Toma de decisiones, visión del negocio         |
+| Asesoras               | Personal de ventas | Usuario final, gestoras de atención al cliente |
+| Cliente frecuente      | Varios             | Usuario final, experiencia de compra directa   |
+| Analista/Desarrollador | Henry David Suárez | Moderación, toma de requisitos                 |
 
-Nombre
+## 3. Objetivos de las Reuniones
 
-Responsabilidad
+* Recoger necesidades reales de atención al cliente y gestión de pedidos.
+* Identificar conflictos entre usuarios y administración.
+* Establecer prioridades para el desarrollo del sistema.
+* Clarificar dudas sobre los procesos actuales y expectativas del sistema.
 
-Administradora
+## 4. Preparación de las Reuniones
 
-Jennifer Buitrago
+* Análisis de la documentación base (Tarea 1).
+* Creación de guía de entrevista y plantilla de objetivos/requisitos.
+* Agenda: introducción, diagnóstico, propuestas, acuerdos.
+* Métodos: entrevistas semiestructuradas, lluvia de ideas, conflicto WinWin.
 
-Toma de decisiones, visión del negocio
+## 5. Desarrollo de las Reuniones
 
-Asesoras
+### 5.1 Acta Resumida
 
-Personal de ventas
+**Fecha:** 15 de abril de 2025
+**Duración:** 90 minutos
+**Modalidad:** Presencial y virtual (videollamada)
 
-Usuario final, gestoras de atención al cliente
+#### Temas tratados:
 
-Cliente frecuente
+* Presentación del proyecto.
+* Necesidades identificadas: automatizar pedidos, visibilidad de productos, gestión de inventario.
+* Conflictos: carga de trabajo, preferencias por WhatsApp, complejidad del registro.
 
-Varios
+#### Notas y acuerdos:
 
-Usuario final, experiencia de compra directa
+* El catálogo digital será una prioridad.
+* Se mantendrá contacto por WhatsApp como opción adicional.
+* El registro del cliente será simplificado al máximo.
 
-Analista/Desarrollador
+## 6. Técnicas Aplicadas
 
-Henry David Suárez
+1. **Entrevistas semiestructuradas**: con asesoras, clientes frecuentes y administradora.
+2. **Lluvia de ideas**: para posibles soluciones y funciones del sistema.
+3. **Plantillas de requisitos y conflictos**: usadas para priorizar elementos clave.
+4. **Negociación WinWin**: permitió llegar a acuerdos entre los actores.
 
-Moderación, toma de requisitos
+## 7. Productos Generados
 
-3. Objetivos de las Reuniones
+* Actas de reuniones y transcripciones breves.
+* Tabla de requisitos, objetivos y conflictos.
+* Priorización de funcionalidades para el diseño inicial.
 
-Recoger necesidades reales de atención al cliente y gestión de pedidos.
+## 8. Próximos pasos
 
-Identificar conflictos entre usuarios y administración.
+* Documentar los objetivos generales y específicos del sistema (Tarea 3).
+* Iniciar el diseño de diagramas y prototipos para revisión preliminar.
 
-Establecer prioridades para el desarrollo del sistema.
-
-Clarificar dudas sobre los procesos actuales y expectativas del sistema.
-
-4. Preparación de las Reuniones
-
-Análisis de la documentación base (Tarea 1).
-
-Creación de guía de entrevista y plantilla de objetivos/requisitos.
-
-Agenda: introducción, diagnóstico, propuestas, acuerdos.
-
-Métodos: entrevistas semiestructuradas, lluvia de ideas, conflicto WinWin.
-
-5. Desarrollo de las Reuniones
-
-5.1 Acta Resumida
-
-Fecha: 15 de abril de 2025Duración: 90 minutosModalidad: Presencial y virtual (videollamada)
-
-Temas tratados:
-
-Presentación del proyecto.
-
-Necesidades identificadas: automatizar pedidos, visibilidad de productos, gestión de inventario.
-
-Conflictos: carga de trabajo, preferencias por WhatsApp, complejidad del registro.
-
-Notas y acuerdos:
-
-El catálogo digital será una prioridad.
-
-Se mantendrá contacto por WhatsApp como opción adicional.
-
-El registro del cliente será simplificado al máximo.
-
-6. Técnicas Aplicadas
-
-Entrevistas semiestructuradas: con asesoras, clientes frecuentes y administradora.
-
-Lluvia de ideas: para posibles soluciones y funciones del sistema.
-
-Plantillas de requisitos y conflictos: usadas para priorizar elementos clave.
-
-Negociación WinWin: permitió llegar a acuerdos entre los actores.
-
-7. Productos Generados
-
-Actas de reuniones y transcripciones breves.
-
-Tabla de requisitos, objetivos y conflictos.
-
-Priorización de funcionalidades para el diseño inicial.
-
-8. Próximos pasos
-
-Documentar los objetivos generales y específicos del sistema (Tarea 3).
-
-Iniciar el diseño de diagramas y prototipos para revisión preliminar.
-
-Autor: Henry David Suárez SerranoRevisado por: Equipo Distribuidora Leo
+**Autor:** Henry David Suarez Serrano
+**Revisado por:** Equipo Distribuidora Leo
