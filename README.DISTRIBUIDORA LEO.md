@@ -42,6 +42,8 @@
 ---
 
 ## 📂 Estructura del Proyecto
+
+```text
 Software-1/
 ├── documentos/
 │   ├── ControlVersiones.md                        # Hoja de versiones del proyecto
@@ -55,6 +57,7 @@ Software-1/
 │       ├── Tarea 6.md                             # Requisitos no funcionales
 │       └── Tarea Asignadas 3 Corte/
 │           └── Validación de Requisitos.md        # Resultados de encuesta de satisfacción
+```
 
 ---
 
@@ -65,7 +68,7 @@ Software-1/
 * **JavaScript** – Funcionalidad dinámica en el frontend
 * **Bootstrap 5** – Diseño responsivo basado en componentes
 * **Google Fonts** – Tipografía moderna para mejorar la interfaz
-* **canva / Figma** – Herramientas de prototipado
+* **Canvas / Figma** – Herramientas de prototipado
 * **Draw\.io / Lucidchart** – Diagramas de casos de uso, secuencia, etc.
 
 ---
