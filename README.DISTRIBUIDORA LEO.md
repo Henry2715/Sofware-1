@@ -72,7 +72,7 @@ Distribuidora-Leo-Web/
 * **JavaScript** – Funcionalidad dinámica en el frontend
 * **Bootstrap 5** – Diseño responsivo basado en componentes
 * **Google Fonts** – Tipografía moderna para mejorar la interfaz
-* **Balsamiq / Figma** – Herramientas de prototipado
+* **canva / Figma** – Herramientas de prototipado
 * **Draw\.io / Lucidchart** – Diagramas de casos de uso, secuencia, etc.
 
 ---
