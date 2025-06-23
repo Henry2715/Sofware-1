@@ -1,4 +1,5 @@
 <!-- Encabezado visual centrado -->
+![image](https://github.com/user-attachments/assets/57e319f0-a7b8-46e0-b2b1-71b72fb11a12)
 
 
 <h1 align="center">Distribuidora Leo - Gestión Web de Ventas y Clientes</h1>
