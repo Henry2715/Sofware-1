@@ -43,22 +43,19 @@
 
 ## 📂 Estructura del Proyecto
 
-```text
-Distribuidora-Leo-Web/
-├── assets/
-│   ├── images/               # Imágenes y logotipo de la empresa
+Software-1/
 ├── documentos/
-│   ├── Tarea1_Dominio.md
-│   ├── Tarea2_Elicitacion.md
-│   ├── Tarea3_Objetivos.md
-│   ├── Tarea4_Info.md
-│   ├── Tarea5_Funcionales.md
-│   ├── Tarea6_NoFuncionales.md
-├── index.html                # Prototipo HTML inicial
-├── style.css                 # Estilos personalizados
-├── README.md                 # Documentación del proyecto
-└── versionado.md             # Registro de versiones del desarrollo
-```
+│   ├── ControlVersiones.md                        # Hoja de versiones del proyecto
+│   ├── Plantilla_Entrevista_Distribuidora leo.md # Plantilla usada para el proceso de entrevistas
+│   └── Tareas Asignadas/
+│       ├── Tarea 1.md                             # Contexto y sistema actual
+│       ├── Tarea 2.md                             # Reuniones de elicitación y negociación
+│       ├── Tarea 3.md                             # Objetivos del sistema
+│       ├── Tarea 4.md                             # Requisitos de información
+│       ├── Tarea 5.md                             # Requisitos funcionales
+│       ├── Tarea 6.md                             # Requisitos no funcionales
+│       └── Tarea Asignadas 3 Corte/
+│           └── Validación de Requisitos.md        # Resultados de encuesta de satisfacción
 
 ---
 
