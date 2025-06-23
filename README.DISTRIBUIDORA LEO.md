@@ -42,7 +42,6 @@
 ---
 
 ## 📂 Estructura del Proyecto
-
 Software-1/
 ├── documentos/
 │   ├── ControlVersiones.md                        # Hoja de versiones del proyecto
